@@ -7,7 +7,7 @@
   <br>
   <br>
 </h1>
-
+  ## Link of Game : https://www.google.com/logos/2010/pacman10-i.html
 <h4 align="center">A PacMan clone written in C++ and Qt.</h4>
 
 <p align="center">
@@ -206,7 +206,6 @@ This project is a faithful, animated recreation of the classic Pacman using C++ 
 
 ---
 
-## Link for the game : https://www.google.com/logos/2010/pacman10-i.html
 
 > 🎓 Built as part of an academic investigation into open source game design.
 
